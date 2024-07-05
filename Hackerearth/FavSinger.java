@@ -1,3 +1,10 @@
+/**
+ * 
+ * @desc Bob has a playlist of songs, each song has a singer associated with it (denoted by an integer)
+ *       Favourite singer of Bob is the one whose songs are the most on the playlist
+ *       Count the number of Favourite Singers of Bob
+ */
+
 import java.util.*;
 
 public class Main {
